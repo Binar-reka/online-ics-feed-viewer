@@ -1,8 +1,7 @@
 # Online ICS feed viewer
 
 
-[ÅHHHHHHemlighemsida](https://binar-reka.github.io/online-ics-feed-viewer/) \
-[ÅHHHHHHemsida](https:recce.utn.se)
+[ÅHHHHHHemlighemsida](https://binar-reka.github.io/online-ics-feed-viewer/) 
 ![Gif demonstrating deployed version](./demo.gif)
 
 
